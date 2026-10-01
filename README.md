@@ -1,6 +1,6 @@
 # Hi, I'm Hanif 👋
 
-Software Engineering graduate from Universiti Malaysia Sabah, and the sole programmer at ContentTree Sdn Bhd,an e-learning company in Melaka, Malaysia. I build tools that automate repetitive work: test automation, document generation, and AI-assisted content workflows.
+Software Engineering graduate from Universiti Malaysia Sabah, and the sole programmer at ContentTree Sdn Bhd, an e-learning company in Melaka, Malaysia. I build tools that automate repetitive work: test automation, document generation, and AI-assisted content workflows.
 
 ## What I build
 
